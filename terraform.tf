@@ -1,5 +1,12 @@
 terraform {
 
+  cloud {
+    organization = "organization-name"
+    workspaces {
+      name = "learn-terraform-aws-default-tags"
+    }
+  }
+
   required_providers {
     aws = {
       source  = "hashicorp/aws"
