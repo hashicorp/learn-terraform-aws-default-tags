@@ -1,7 +1,6 @@
 terraform {
 
   cloud {
-    organization = "organization-name"
     workspaces {
       name = "learn-terraform-aws-default-tags"
     }
@@ -14,5 +13,5 @@ terraform {
     }
   }
 
-  required_version = ">= 1.1"
+  required_version = ">= 1.2"
 }
