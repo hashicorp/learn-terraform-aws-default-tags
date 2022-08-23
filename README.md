@@ -1,9 +1,7 @@
 # Learn Terraform - Configure Default Tags for AWS Resources
 
-This is a companion repository for the [Configure Default Tags for AWS
+This is a companion repository for the Hashicorp [Configure Default Tags for AWS
 Resources
-tutorial](https://learn.hashicorp.com/tutorials/terraform/aws-default-tags) on
-[HashiCorp Learn](https://learn.hashicorp.com/). It contains Terraform
+tutorial](https://developer.hashicorp.com/terraform/tutorials/aws/aws-default-tags). It contains Terraform
 configuration files for you to use to learn how to configure and override
 default tags for the AWS provider.
-
